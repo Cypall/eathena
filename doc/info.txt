@@ -2,3 +2,4 @@ https://sourceforge.net/projects/eathena/
 https://www.eathena.org/
 https://github.com/eathena/eathena
 https://github.com/renzev2/trunk
+https://en.everybodywiki.com/EAthena
